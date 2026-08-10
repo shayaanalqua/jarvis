@@ -403,23 +403,14 @@ OpenAI API calls optimized with max_tokens=200
 
 ElevenLabs streaming for efficient audio
 
-License
-MIT License - See LICENSE file for details
-
 Contact
-Developer: Your Name
+Developer: Shayaan Alqua Abdi
 
-Email: your.email@example.com
+Email: shayaanalqua@gmail.com
 
-GitHub: github.com/yourusername
+GitHub: https://github.com/shayaanalqua/
 
 Acknowledgments
 OpenAI - GPT-4o-mini, Whisper, TTS-1
 
 ElevenLabs - Text-to-Speech
-
-PyQt5 Team - GUI Framework
-
-Contributors - Community support
-
-Built by You. Powered by Intelligence. ⚡
