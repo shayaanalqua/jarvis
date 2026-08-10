@@ -4,7 +4,7 @@ bash
 git clone https://github.com/shayaanalqua/jarvis
 
 # Navigate to directory
-cd jarvis-assistant
+cd jarvis
 
 # Install dependencies
 pip install -r requirements.txt
